@@ -1,7 +1,4 @@
 # Domestic
-# 国内二级域名
-DOMAIN-SUFFIX,edu.cn
-DOMAIN-SUFFIX,gov.cn
 # AcFun
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,acfun.com
@@ -14,55 +11,19 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,126.net
 # 腾讯
-DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,gtimg.cn
-DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,qlogo.cn
 IP-CIDR,203.205.192.0/18
-# 新浪
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,sinajs.cn
-DOMAIN-SUFFIX,sina.com
-DOMAIN-SUFFIX,sina.cn
-DOMAIN-SUFFIX,sina.com.cn
-DOMAIN-SUFFIX,sinaimg.cn
-DOMAIN-SUFFIX,sinajs.cn
-DOMAIN-SUFFIX,miaopai.com
-DOMAIN-SUFFIX,xiaoka.tv
-DOMAIN-SUFFIX,t.cn
 # 阿里
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,tbcdn.com
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
-# 百度
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,bcebos.com
-DOMAIN-SUFFIX,baidupcs.com
-DOMAIN-SUFFIX,qianqian.com
 # Bilibili
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,acgvideo.com
-# 湖南TV
-DOMAIN-SUFFIX,hitv.com
-DOMAIN-SUFFIX,hunantv.com
-DOMAIN-SUFFIX,mgtv.com
-# Migu
-DOMAIN-SUFFIX,cmvideo.cn
-DOMAIN-SUFFIX,migu.cn
-DOMAIN-SUFFIX,miguvideo.com
 # 优酷
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,youku.com
@@ -71,23 +32,7 @@ DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,qy.net
-# 搜狐
-DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,sohu.com.cn
-DOMAIN-SUFFIX,itc.cn
-DOMAIN-SUFFIX,v-56.com
-# Kugou, Kuwo
-DOMAIN-SUFFIX,kugou.com
-DOMAIN-SUFFIX,kuwo.cn
-DOMAIN-SUFFIX,koowo.com
 # 知乎
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
-# 秀米
-DOMAIN-SUFFIX,xiumi.us
-# 豆瓣
-DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,doubanio.com
-# 天眼查
-DOMAIN-SUFFIX,tianyancha.com
 
