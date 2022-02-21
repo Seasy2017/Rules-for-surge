@@ -16,9 +16,9 @@
 
 .Question-main,
 .Question-mainColumn {
-	width: 90%;
-	padding-left: 5%;
-	padding-right: 5%;
+	width: 100%;
+	padding-left: 0%;
+	padding-right: 0%;
 }
 
 .Search-container {
