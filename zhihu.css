@@ -1,0 +1,36 @@
+/* ==UserStyle==
+@name         Zhihu Simplify
+@version      20211025.02.16
+@namespace    userstyles.world/user/gitsang
+@description  hide side column, expand main column
+@author       gitsang
+@license      MIT License
+==/UserStyle== */
+
+@-moz-document domain("zhihu.com") {
+.Reward,
+.Question-sideColumn {
+	width: 0px;
+	display: none!important;
+}
+
+.Question-main,
+.Question-mainColumn {
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.Search-container {
+    width: 700px !important;
+}
+
+.Collections-container {
+    width: 700px !important;
+}
+
+.CollectionsDetailPage {
+    width: 700px !important;
+}
+
+}
